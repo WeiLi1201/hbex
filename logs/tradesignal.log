@@ -1,0 +1,120 @@
+2018-09-16 11:03:37 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-16 03:03:37
+2018-09-16 11:04:43 - tradesignal_logger - INFO - 获取usdt交易对价格精度： ts: 2018-09-16 03:04:43
+2018-09-16 11:04:58 - tradesignal_logger - INFO - 获取账户实时持仓,acct_id: 647052, ts: 2018-09-16 03:04:58
+2018-09-16 11:05:01 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-16 03:05:01
+2018-09-17 11:20:15 - tradesignal_logger - WARNING - 获取大盘信息有误，忽略本次信号，暂停交易
+2018-09-17 11:22:16 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-17 03:22:16
+2018-09-17 11:22:31 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-17 03:22:31
+2018-09-25 14:44:09 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-25 06:44:09
+2018-09-25 14:48:19 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-25 06:48:19
+2018-09-25 14:49:43 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-25 06:49:43
+2018-09-25 14:50:08 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-25 06:50:08
+2018-09-26 10:14:54 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 02:14:54
+2018-09-26 10:17:55 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-26 02:17:55
+2018-09-26 10:20:58 - tradesignal_logger - INFO - 大盘 usdt交易对48对, 26涨27跌，跌多涨少，暂停交易
+2018-09-26 10:32:55 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 02:32:55
+2018-09-26 10:33:46 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-26 02:33:46
+2018-09-26 10:40:15 - tradesignal_logger - INFO - 大盘 usdt交易对14对, 11涨3跌，涨多跌少，正常交易
+2018-09-26 10:41:40 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 02:41:40
+2018-09-26 10:50:25 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 02:50:25
+2018-09-26 10:51:16 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 02:51:16
+2018-09-26 10:52:45 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 02:52:45
+2018-09-26 10:54:44 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-26 02:54:44
+2018-09-26 10:55:40 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-26 02:55:40
+2018-09-26 10:55:58 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-26 02:55:58
+2018-09-26 10:56:42 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-26 02:56:42
+2018-09-26 10:58:09 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-26 02:58:09
+2018-09-26 10:59:10 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 02:59:10
+2018-09-26 10:59:35 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 02:59:35
+2018-09-26 11:00:29 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 03:00:29
+2018-09-26 11:01:21 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 03:01:21
+2018-09-26 11:04:13 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-26 03:04:13
+2018-09-26 17:25:33 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-09-26 09:25:33
+2018-09-26 17:25:48 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 09:25:48
+2018-09-26 17:32:32 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-09-26 09:32:32
+2018-09-26 18:06:34 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:06:34
+2018-09-26 18:06:59 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:06:59
+2018-09-26 18:07:19 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:07:19
+2018-09-26 18:07:39 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:07:39
+2018-09-26 18:07:59 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:07:59
+2018-09-26 18:08:51 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:08:51
+2018-09-26 18:09:14 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:09:14
+2018-09-26 18:09:34 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:09:34
+2018-09-26 18:09:54 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:09:54
+2018-09-26 18:10:14 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:10:14
+2018-09-26 18:10:34 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:10:34
+2018-09-26 18:10:54 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:10:54
+2018-09-26 18:11:19 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:11:19
+2018-09-26 18:11:36 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 10:11:36
+2018-09-26 18:11:56 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:11:56
+2018-09-26 18:12:16 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:12:16
+2018-09-26 18:12:36 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:12:36
+2018-09-26 18:12:56 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 10:12:56
+2018-09-26 19:11:16 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:11:16
+2018-09-26 19:11:34 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:11:34
+2018-09-26 19:13:49 - tradesignal_logger - INFO - 大盘 usdt交易对13对, 12涨0跌，涨多跌少，正常交易
+2018-09-26 19:15:24 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:15:24
+2018-09-26 19:15:32 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:15:32
+2018-09-26 19:16:03 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:16:03
+2018-09-26 19:16:09 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:16:09
+2018-09-26 19:16:32 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:16:32
+2018-09-26 19:16:49 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:16:49
+2018-09-26 19:18:43 - tradesignal_logger - INFO - 大盘 usdt交易对13对, 12涨0跌，涨多跌少，正常交易
+2018-09-26 19:19:51 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:19:51
+2018-09-26 19:19:57 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:19:57
+2018-09-26 19:20:17 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:20:17
+2018-09-26 19:20:23 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:20:23
+2018-09-26 19:21:35 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:21:35
+2018-09-26 19:21:38 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:21:38
+2018-09-26 19:21:54 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:21:54
+2018-09-26 19:22:00 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:22:00
+2018-09-26 19:23:01 - tradesignal_logger - INFO - 大盘 usdt交易对13对, 12涨0跌，涨多跌少，正常交易
+2018-09-26 19:24:42 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:24:42
+2018-09-26 19:25:06 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:25:06
+2018-09-26 19:25:37 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:25:37
+2018-09-26 19:26:07 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:26:07
+2018-09-26 19:28:30 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:28:30
+2018-09-26 19:28:34 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:28:34
+2018-09-26 19:28:50 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:28:50
+2018-09-26 19:28:54 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:28:54
+2018-09-26 19:29:50 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:29:50
+2018-09-26 19:30:15 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:30:15
+2018-09-26 19:30:52 - tradesignal_logger - INFO - 大盘 usdt交易对13对, 13涨0跌，涨多跌少，正常交易
+2018-09-26 19:34:02 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:34:02
+2018-09-26 19:34:06 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:34:06
+2018-09-26 19:34:59 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-26 11:34:59
+2018-09-26 19:35:08 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-26 11:35:08
+2018-09-26 19:35:26 - tradesignal_logger - INFO - 大盘 usdt交易对13对, 13涨0跌，涨多跌少，正常交易
+2018-09-26 19:35:27 - tradesignal_logger - INFO - 生成交易计划成功，计划id是: 5bab6eff08ab8d0f5b464978,时间: 2018-09-26 11:35:27 730205
+2018-09-26 19:36:29 - tradesignal_logger - INFO - 尝试获取交易计划, ts: 2018-09-26 11:36:29
+2018-09-27 10:19:11 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-27 02:19:11
+2018-09-27 10:21:53 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-27 02:21:53
+2018-09-27 10:22:43 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-27 02:22:43
+2018-09-27 10:22:50 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-27 02:22:50
+2018-09-27 10:24:07 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-27 02:24:07
+2018-09-27 10:24:39 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-27 02:24:39
+2018-09-27 10:24:45 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-27 02:24:45
+2018-09-27 10:25:28 - tradesignal_logger - WARNING - 大盘 usdt交易对13对, 1涨10跌，清仓
+2018-09-27 10:25:29 - tradesignal_logger - INFO - 大盘整体下跌，开始清仓
+2018-09-27 10:25:29 - tradesignal_logger - INFO - 生成清仓计划成功，计划id是: 5bac3f9908ab8d110bebb835,时间: 2018-09-27 02:25:29 256906
+2018-09-28 14:42:40 - tradesignal_logger - INFO - 尝试获取交易信号, ts: 2018-09-28 06:42:40
+2018-09-28 14:42:44 - tradesignal_logger - INFO - 获取到 交易信号, ts: 2018-09-28 06:42:44
+2018-09-28 14:42:48 - tradesignal_logger - INFO - {'symbol': 'btc', 'direction': 1}
+2018-09-28 14:42:48 - tradesignal_logger - INFO - [{'symbol': 'btc', 'direction': 1}]
+2018-09-28 14:43:02 - tradesignal_logger - INFO - 大盘 usdt交易对13对, 10涨1跌，涨多跌少，正常交易
+2018-09-28 14:43:53 - tradesignal_logger - INFO - 生成交易计划成功，计划id是: 5badcda808ab8d1624aabc67,时间: 2018-09-28 06:43:53 157446
+2018-11-05 10:36:20 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-11-05 02:36:20
+2018-11-05 10:36:50 - tradesignal_logger - INFO - 获取基准价格： ts: 2018-11-05 02:36:50
+2018-11-05 10:37:37 - tradesignal_logger - INFO - 获取usdt交易对价格精度： ts: 2018-11-05 02:37:37
+2018-11-05 10:37:49 - tradesignal_logger - INFO - 获取账户实时持仓,acct_id: 647052, ts: 2018-11-05 02:37:49
+2018-11-05 10:37:52 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-11-05 02:37:52
+2018-11-05 10:38:04 - tradesignal_logger - INFO - 获取已交易币种并存库,acct_id: 647052, ts: 2018-11-05 02:38:04
+2018-11-05 10:38:35 - tradesignal_logger - INFO - 获取账户实时持仓,acct_id: 647052, ts: 2018-11-05 02:38:35
+2018-11-05 10:39:05 - tradesignal_logger - INFO - 获取账户实时持仓,acct_id: 647052, ts: 2018-11-05 02:39:05
+2018-11-05 10:39:05 - tradesignal_logger - INFO - 获取已交易币种并存库,acct_id: 647052, ts: 2018-11-05 02:39:05
+2018-11-05 10:39:35 - tradesignal_logger - INFO - 获取账户实时持仓,acct_id: 647052, ts: 2018-11-05 02:39:35
+2018-11-05 10:40:05 - tradesignal_logger - INFO - 获取账户实时持仓,acct_id: 647052, ts: 2018-11-05 02:40:05
+2018-11-05 10:40:05 - tradesignal_logger - INFO - 获取已交易币种并存库,acct_id: 647052, ts: 2018-11-05 02:40:05
+2018-11-05 10:40:17 - tradesignal_logger - INFO - 获取usdt交易对 实时价格存库，ts: 2018-11-05 02:40:17
+2018-11-05 10:41:08 - tradesignal_logger - INFO - 获取账户实时持仓,acct_id: 647052, ts: 2018-11-05 02:41:08
+2018-11-05 10:45:00 - tradesignal_logger - INFO - 获取账户实时持仓,acct_id: 647052, ts: 2018-11-05 02:45:00
