@@ -50,8 +50,8 @@ def another2():
     res_orderid = huobiapi.order_info(order_id)
 
     data_obj = loadData.DataLoader()
-    step_df = data_obj.loadMongo(db='coin', collection='huobi_btcusdt_step2', host='149.28.18.43', port=27017,
-                                 username='cocola_2018', password='cocola_dmx~!`', query={"ts": 1532944884038})
+    step_df = data_obj.loadMongo(db='coin', collection='huobi_btcusdt_step2', host='149.xxx.18.43', port=27017,
+                                 username='xxxxxx', password='xxxxxx~!`', query={"ts": 1532944884038})
     print(step_df.head(10))
 
     print(res_orderid)
