@@ -2,7 +2,7 @@
 from pymongo import MongoClient
 import datetime
 
-mongo_uri = 'mongodb://%s:%s@%s:%s' % ('cocola_2018', 'cocola_dmx~!`', '149.28.18.43', 27017)
+mongo_uri = 'mongodb://%s:%s@%s:%s' % ('xxxxxx', 'xxxx~!`', '149.28.xx.43', 27017)
 DB_TRADE = MongoClient(mongo_uri, authSource='coin', authMechanism='SCRAM-SHA-1')
 DB_CONN = DB_TRADE['coin']
 
