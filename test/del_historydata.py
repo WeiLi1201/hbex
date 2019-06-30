@@ -2,7 +2,7 @@
 from pymongo import MongoClient
 import datetime
 
-mongo_uri = 'mongodb://%s:%s@%s:%s' % ('cocola_2018', 'cocola_dmx~!`', '149.28.18.43', 27017)
+mongo_uri = 'mongodb://%s:%s@%s:%s' % ('xxxxxx', 'xxxx~x`', '149.28.xx.xx', 27017)
 DB_CONN = MongoClient(mongo_uri)['coin']
 
 
